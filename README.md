@@ -1,4 +1,4 @@
-# Prática de colaboração com Git
+# Projeto Git — Laura Ferreira: prática de colaboração
 
 Atividade de Git e GitHub — LSPW.
 
