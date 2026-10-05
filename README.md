@@ -1,4 +1,4 @@
-# Projeto Git
+# Prática de colaboração com Git
 
 Atividade de Git e GitHub — LSPW.
 
