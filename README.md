@@ -1,6 +1,6 @@
-# Projeto Git — Laura Ferreira: prática de colaboração
+# Projeto Git: prática de colaboração
 
-Atividade de Git e GitHub — LSPW.
+Atividade de Git e GitHub.
 
 Autora: Laura Ferreira (@laurafsv).
 
