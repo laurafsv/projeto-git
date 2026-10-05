@@ -1,4 +1,4 @@
-# Projeto Git
+# Projeto Git de Laura Ferreira
 
 Atividade de Git e GitHub — LSPW.
 
